@@ -4,27 +4,31 @@
 <p><strong>Get Free Sample Report PDF @&nbsp;<a href="https://marketstrides.com/request-sample/cricket-equipment-market">https://marketstrides.com/request-sample/cricket-equipment-market</a></strong></p>
 <h2><strong>Cricket Equipment Market Share by Key Players</strong></h2>
 <ol>
-<li>Patanjali Ayurved</li>
-<li>Dabur</li>
-<li>Baidyanath Ayurved</li>
-<li>Himalaya Drug</li>
-<li>Brihans Natural Products</li>
-<li>Nourish Vitals</li>
-<li>AloeVera India</li>
-<li>Khadi Natural</li>
-<li>Forest Essentials</li>
-<li>Nature's Essence</li>
-<li>Fabindia</li>
-<li>MSG All Trading International</li>
-<li>Bright Lifecare</li>
-<li>Rattan Organic Foods</li>
+<li>
+<ol>
+<li>BOMAG</li>
+<li>Caterpillar</li>
+<li>Volvo</li>
+<li>Atlas</li>
+<li>JCB</li>
+<li>Wacker neuson</li>
+<li>Terex</li>
+<li>Doosan</li>
+<li>Sakai</li>
+<li>MBW Incorporated</li>
+<li>Ammann</li>
+<li>Wirtgen Group(HAMM)</li>
+<li>Hitachi</li>
+<li>Belle Group</li>
+<li>Mikasa</li>
+</ol>
+</li>
 </ol>
 <h3><strong>Cricket Equipment Market Segmentation</strong></h3>
 <p>The report on Global Cricket Equipment Market provides detailed toc by type, applications, and regions. Each segment provides information about the production and manufacturing during the forecast period of 2025-2033 . The application segment highlights the applications and operational processes of the industry. Understanding these segments will help identify the importance of the various factors aiding to the market growth.</p>
 <h4>The report is segmented as follows:</h4>
 <ol>
-<li>
-<h3>By Type</h3>
+<li>By Type
 <ol>
 <li>Cricket Bats</li>
 <li>Cricket Balls</li>
@@ -32,8 +36,7 @@
 <li>Others</li>
 </ol>
 </li>
-<li>
-<h3>By Application</h3>
+<li>By Application
 <ol>
 <li>Junior/Youth</li>
 <li>Women</li>
